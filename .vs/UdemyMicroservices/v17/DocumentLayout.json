@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\photostock\\freecourse.services.photostock\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\photostock\\freecourse.services.photostock\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\photostock\\freecourse.services.photostock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\photostock\\freecourse.services.photostock\\dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\photostock\\freecourse.services.photostock\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A882202E-C434-4884-AA0C-DEA015ACE8BD}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\services\\tokenexchangeextensiongrantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\services\\tokenexchangeextensiongrantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\services\\identityresourceownerpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\services\\identityresourceownerpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7A972E-741B-44A7-8E87-2E6907AB4267}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB7A972E-741B-44A7-8E87-2E6907AB4267}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7A972E-741B-44A7-8E87-2E6907AB4267}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7A972E-741B-44A7-8E87-2E6907AB4267}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\migrations\\20240314134029_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\migrations\\20240314134029_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\omerf\\source\\repos\\udemymicroservices\\identityserver\\freecourse.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0780E35-4DEE-477E-A6B1-52E28A887DC6}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Startup.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Startup.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Startup.cs",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:05:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Controllers\\PhotosController.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Controllers\\PhotosController.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Controllers\\PhotosController.cs",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Controllers\\PhotosController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:04:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Dtos\\PhotoDto.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Dtos\\PhotoDto.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Dtos\\PhotoDto.cs",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Dtos\\PhotoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:03:42.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T15:02:38.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T14:52:28.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T14:45:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:44:03.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwFQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:34:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwBYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:04:51.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T15:01:44.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:59:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenExchangeExtensionGrantValidator.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Services\\TokenExchangeExtensionGrantValidator.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Services\\TokenExchangeExtensionGrantValidator.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Services\\TokenExchangeExtensionGrantValidator.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Services\\TokenExchangeExtensionGrantValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:08:41.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityResourceOwnerPasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:36:35.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignupDto.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:00:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240314134029_initial.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240314134029_initial.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240314134029_initial.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240314134029_initial.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240314134029_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:40:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:37:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswCsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:35:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\omerf\\source\\repos\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\appsettings.json",
+              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T13:34:29.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
