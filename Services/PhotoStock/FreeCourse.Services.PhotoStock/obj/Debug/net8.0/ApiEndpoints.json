@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "FreeCourse.Services.PhotoStock.Controllers.PhotosController",
+    "Method": "PhotoSave",
+    "RelativePath": "api/Photos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FreeCourse.Services.PhotoStock.Controllers.PhotosController",
+    "Method": "PhotoDelete",
+    "RelativePath": "api/Photos",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "photoUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

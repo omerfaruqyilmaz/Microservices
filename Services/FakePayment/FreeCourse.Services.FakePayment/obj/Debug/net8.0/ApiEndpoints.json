@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FreeCourse.Services.FakePayment.Controllers.FakePaymentsController",
+    "Method": "ReceivePayment",
+    "RelativePath": "api/FakePayments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentDto",
+        "Type": "FreeCourse.Services.FakePayment.Models.PaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

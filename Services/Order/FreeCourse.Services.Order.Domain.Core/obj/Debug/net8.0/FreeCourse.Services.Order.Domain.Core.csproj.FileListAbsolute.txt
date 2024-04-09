@@ -1,0 +1,11 @@
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.deps.json
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.dll
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.pdb
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfo.cs
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.dll
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\refint\FreeCourse.Services.Order.Domain.Core.dll
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\FreeCourse.Services.Order.Domain.Core.pdb
+C:\Users\omerf\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net8.0\ref\FreeCourse.Services.Order.Domain.Core.dll
